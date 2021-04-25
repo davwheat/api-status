@@ -1,31 +1,40 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: davwheat # Your GitHub organization or username, where this repository lives
+repo: api-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Huxley2
+    url: https://national-rail-api.davwheat.dev/
+    maxResponseTime: 15000
+  - name: Flarum Badge API
+    url: https://flarum-badge-api.davwheat.dev/v1/compat-latest/flarum/markdown
+    maxResponseTime: 6000
+  - name: Uploads server
+    url: https://u.davwheat.dev/
+    maxResponseTime: 7500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.davwheat.dev
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: davwheat.dev status
+  introTitle: "View real-time status info about my sites and APIs."
+  introMessage: View information about my websites and APIs, as well as tracking downtime and latency.
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://davwheat.dev/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/davwheat
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+status-website:
+  theme: dark
+  
+assignees:
+  - davwheat
