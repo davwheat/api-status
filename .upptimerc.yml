@@ -37,5 +37,6 @@ status-website:
 assignees:
   - davwheat
 
-i18n:
-  footer: ""
+# Removes footer attribution
+# i18n:
+#   footer: ""
