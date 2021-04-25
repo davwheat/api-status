@@ -36,3 +36,6 @@ status-website:
   
 assignees:
   - davwheat
+
+i18n:
+  footer: ""
