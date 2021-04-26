@@ -4,14 +4,17 @@ repo: api-status # The name of this repository
 
 sites:
   - name: Huxley2
-    url: https://national-rail-api.davwheat.dev/
-    maxResponseTime: 15000
+    url: https://national-rail-api.davwheat.dev/departures/VIC
+    maxResponseTime: 8000
   - name: Flarum Badge API
     url: https://flarum-badge-api.davwheat.dev/v1/compat-latest/flarum/markdown
-    maxResponseTime: 6000
+    maxResponseTime: 2000
   - name: Uploads server
     url: https://u.davwheat.dev/
-    maxResponseTime: 7500
+    maxResponseTime: 2000
+  - name: Personal site
+    url: https://davwheat.dev/
+    maxResponseTime: 1250
 
 status-website:
   theme: dark
