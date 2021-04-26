@@ -8,13 +8,13 @@ sites:
     maxResponseTime: 8000
   - name: Flarum Badge API
     url: https://flarum-badge-api.davwheat.dev/v1/compat-latest/flarum/markdown
-    maxResponseTime: 2000
+    maxResponseTime: 1500
   - name: Uploads server
     url: https://u.davwheat.dev/
-    maxResponseTime: 2000
+    maxResponseTime: 1500
   - name: Personal site
     url: https://davwheat.dev/
-    maxResponseTime: 1250
+    maxResponseTime: 500
 
 status-website:
   theme: dark
