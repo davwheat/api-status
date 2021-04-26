@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.davwheat.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/davwheat/api-status/raw/master/assets/icon.png
   name: davwheat.dev status
   introTitle: "View real-time status info about my sites and APIs."
   introMessage: View information about my websites and APIs, as well as tracking downtime and latency.
