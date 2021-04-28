@@ -4,19 +4,19 @@
     "url": "https://national-rail-api.davwheat.dev/departures/VIC",
     "icon": "https://favicons.githubusercontent.com/national-rail-api.davwheat.dev",
     "slug": "national-rail-api-proxy-huxley2",
-    "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3446,
-    "timeDay": 2732,
-    "timeWeek": 3446,
-    "timeMonth": 3446,
-    "timeYear": 3446,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 3422,
+    "timeDay": 2699,
+    "timeWeek": 3422,
+    "timeMonth": 3422,
+    "timeYear": 3422,
     "dailyMinutesDown": {
-      "2021-04-28": 0
+      "2021-04-28": 11
     }
   },
   {
