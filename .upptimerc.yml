@@ -11,7 +11,7 @@ sites:
     maxResponseTime: 1500
   - name: Uploads server
     url: https://u.davwheat.dev/
-    maxResponseTime: 1500
+    maxResponseTime: 3000
   - name: Personal site
     url: https://davwheat.dev/
     maxResponseTime: 500
