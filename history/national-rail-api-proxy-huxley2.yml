@@ -1,7 +1,7 @@
 url: https://national-rail-api.davwheat.dev/departures/VIC
-status: degraded
+status: up
 code: 200
-responseTime: 9836
-lastUpdated: 2021-05-09T23:47:21.329Z
+responseTime: 5033
+lastUpdated: 2021-05-09T23:51:53.721Z
 startTime: Mon Apr 26 2021 16:02:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
