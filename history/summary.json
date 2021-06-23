@@ -13,7 +13,7 @@
     "time": 2341,
     "timeDay": 969,
     "timeWeek": 946,
-    "timeMonth": 1174,
+    "timeMonth": 1168,
     "timeYear": 2341,
     "dailyMinutesDown": {
       "2021-06-13": 614,
@@ -38,7 +38,7 @@
     "time": 623,
     "timeDay": 554,
     "timeWeek": 571,
-    "timeMonth": 901,
+    "timeMonth": 902,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2021-06-13": 568,
@@ -77,19 +77,19 @@
     "url": "https://davwheat.dev/",
     "icon": "https://favicons.githubusercontent.com/davwheat.dev",
     "slug": "personal-site",
-    "status": "degraded",
-    "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.92%",
     "time": 173,
-    "timeDay": 504,
+    "timeDay": 496,
     "timeWeek": 202,
     "timeMonth": 175,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2021-06-23": 0,
+      "2021-06-23": 19,
       "2021-06-08": 51
     }
   }
