@@ -1,7 +1,7 @@
 url: https://davwheat.dev/
-status: up
+status: degraded
 code: 200
-responseTime: 168
-lastUpdated: 2022-05-09T16:34:27.889Z
+responseTime: 3655
+lastUpdated: 2022-05-09T16:55:34.418Z
 startTime: Mon Apr 26 2021 15:08:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
