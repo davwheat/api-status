@@ -1,7 +1,7 @@
 url: https://flarum-badge-api.davwheat.dev/v1/compat-latest/flarum/markdown
 status: down
-code: 502
-responseTime: 230
-lastUpdated: 2022-05-29T23:42:24.180Z
+code: 500
+responseTime: 364
+lastUpdated: 2022-05-30T02:02:03.364Z
 startTime: Sun Apr 25 2021 14:04:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
